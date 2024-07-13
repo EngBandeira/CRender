@@ -1,0 +1,2 @@
+./buildk
+gdb -tui --args ./build/final /home/bandeira/Documents/GIT/BFlex/main.bfx
